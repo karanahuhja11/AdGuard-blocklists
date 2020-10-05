@@ -1,0 +1,13 @@
+!Google unblock list
+@@||ssl.gstatic.com^$important
+@@||www.gstatic.com^$important
+@@||fonts.gstatic.com^$important
+@@||apis.google.com^$important
+@@||fonts.googleapis.com^$important
+@@||www.tkqlhce.com^$important
+@@||www.emjcd.com^$important
+@@||maps.gstatic.com^$important
+
+!Github unblock list
+@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$important
+@@||github-cloud.s3.amazonaws.com^$important
