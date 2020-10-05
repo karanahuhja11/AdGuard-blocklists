@@ -26,3 +26,4 @@
 @@||etahub.com^$important
 @@||cs.phncdn.com^$important
 @@||cdn1d-static-shared.phncdn.com^$important
+@@||cdn1-smallimg.phncdn.com^$important
