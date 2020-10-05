@@ -22,7 +22,7 @@
 ||vz-cdn2.adtng.com^
 ||vz-cdn2.trafficjunky.net^
 ||ev-h.phncdn.com^$important
-||cw.phncdn.com^$important
+@@||cw.phncdn.com^$important
 @@||ci.phncdn.com^$important
 @@||etahub.com^$important
 @@||cs.phncdn.com^$important
