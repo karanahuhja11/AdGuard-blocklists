@@ -55,3 +55,7 @@
 @@||store-content.ak.epicgames.com/api^
 @@||library-service.live.use1a.on.epicgames.com^
 @@||datastorage-public-service-liveegs.live.use1a.on.epicgames.com^
+@@||static-assets-prod.unrealengine.com^$important
+@@||datarouter.ol.epicgames.com^$important
+@@||account-public-service-prod03.ol.epicgames.com^$important
+@@||epicgames.com^$important
