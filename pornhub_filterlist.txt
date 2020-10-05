@@ -28,3 +28,4 @@
 @@||cs.phncdn.com^$important
 @@||cdn1d-static-shared.phncdn.com^$important
 @@||cdn1-smallimg.phncdn.com^$important
+@@||di.phncdn.com^$important
