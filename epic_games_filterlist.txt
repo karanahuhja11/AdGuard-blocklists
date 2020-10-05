@@ -18,7 +18,7 @@
 ||entitlement-svc-prod08-pub-168967444.us-east-1.elb.amazonaws.com^
 ||eos-cloudsaves-live.s3.amazonaws.com^
 ||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
-||eos-service-datastorage-liveegs-public.befa.live.use1a.on.epicgames.com^
+||eos-service-storage-liveegs-public.befa.live.use1a.on.epicgames.com^
 ||epicgames.com^
 ||eulatracking-public-service-prod06.ol.epicgames.com^
 ||eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com^
@@ -29,11 +29,9 @@
 ||metrics.ol.epicgames.com^
 ||nae-1-prod.stun.use1a.on.epicgames.com^
 ||nae-2-prod.stun.use1a.on.epicgames.com^
-||qos2.ol.epicgames.com^
 ||s3-1-w.amazonaws.com^
 ||san.cdn.unrealengine.com.edgekey.net^
 ||social-overlay-launchdarkly-api-prod.ol.epicgames.com^
-||static-assets-prod.unrealengine.com^
 ||stun-1-nat.ol.epicgames.com^
 ||stun-2-nat.ol.epicgames.com^
 ||tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com^
