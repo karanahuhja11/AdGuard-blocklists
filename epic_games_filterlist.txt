@@ -11,8 +11,6 @@
 ||clientstream-ga.launchdarkly.com^
 ||clientstream.launchdarkly.com^
 ||connect.epicgames.dev^
-||d1z9autcf703pk.cloudfront.net^
-||d2vryputvprrok.cloudfront.net^
 ||e15203.dscb.akamaiedge.net^
 ||e9616.d.akamaiedge.net^
 ||entitlement-svc-prod08-pub-168967444.us-east-1.elb.amazonaws.com^
